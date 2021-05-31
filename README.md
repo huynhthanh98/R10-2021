@@ -14,3 +14,8 @@ if you want reproduce result of model original yolov3 in TrashCan-Instance
 
 **Result**
 Can find in here https://docs.google.com/spreadsheets/d/1qCxaVEBRYERcz_kQ1x4JRzgFYiSPplGwakIuGYs2xa0/edit?usp=sharing
+
+This Code refer Darknet and Ulytratic:
+  1. https://github.com/AlexeyAB/darknet
+  2. https://github.com/ultralytics/yolov3
+
